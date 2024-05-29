@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "image-spec",
+			"path": "../../../image-spec"
+		}
+	],
+	"settings": {}
+}
